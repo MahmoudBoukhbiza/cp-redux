@@ -1,0 +1,13 @@
+.Task{
+    display: flex;
+    background-color: white;
+    margin: 6px 4px;
+    height: 40px;
+    border-radius: 12px;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.line{
+    text-decoration: line-through;
+}

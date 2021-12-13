@@ -1,0 +1,29 @@
+.Addtask{
+    height: 50px;
+    width: 100%;
+    border-radius: 12px;
+    background-color: rgb(230, 230, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    padding: 50px;
+}
+input{
+  background: none;
+  border: none;
+  margin-left: 12px;
+  flex :1;
+  
+}
+input:focus{
+    outline:black ;
+}
+.Addtask button{
+    margin-right: 12px;
+    background-color: rgb(230, 230, 230);
+    border: none;
+    border-radius: 12px;
+    height: 30px;
+    width: 50px;
+}
